@@ -19,5 +19,6 @@ Se implementó un modelo U-Net. Esta arquitectura cuenta con 4 bloques para el e
 Los diferentes archivos se encuentran alojados en este repositorio.
 
 A continuación, se proporciona el enlace al vídeo y a la presentación del proyecto: 
-**Enlace al vídeo**
-**Enlace a la presentación**
+[**Enlace al vídeo**]()
+
+[**Enlace a la presentación**](https://www.canva.com/design/DAF1sv9ym90/0Qt91UhF-QNvL_fpPKoPUw/view?utm_content=DAF1sv9ym90&utm_campaign=designshare&utm_medium=link&utm_source=editor)
