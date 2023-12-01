@@ -15,3 +15,5 @@ El diagnóstico y tratamiento oportuno de las lesiones de ACV isquémico requier
 
 ## Modelo
 Se implementó un modelo U-Net. Esta arquitectura cuenta con 4 bloques para el encoder y 4 bloques para el decoder, además de las skip connections.
+
+Los diferentes archivos se encuentran alojados en este repositorio.
