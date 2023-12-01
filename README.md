@@ -20,6 +20,6 @@ Los diferentes archivos se encuentran alojados en este repositorio.
 
 A continuación, se proporciona el enlace al vídeo y a la presentación del proyecto: 
 
-[**Enlace al vídeo**]()
+[**Enlace al vídeo**](https://www.youtube.com/watch?v=SKO3yu6ZrMM)
 
 [**Enlace a la presentación**](https://www.canva.com/design/DAF1sv9ym90/0Qt91UhF-QNvL_fpPKoPUw/view?utm_content=DAF1sv9ym90&utm_campaign=designshare&utm_medium=link&utm_source=editor)
