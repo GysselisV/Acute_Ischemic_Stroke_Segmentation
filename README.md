@@ -1,9 +1,7 @@
 # **Acute Ischemic Stroke Segmentation**
 ![figura 1](https://github.com/gysselis40/Acute_Ischemic_Stroke_Segmentation/blob/main/Banner.png)
 ## Integrantes 
-- **Gysselis Vásquez Garcés**
-- **Óscar Andrés Ramírez Serna**
-- **Laura Rodríguez Cala**
+**Gysselis Vásquez Garcés, Óscar Andrés Ramírez Serna, Laura Rodríguez Cala**
 
 ## Descripción del dataset
 Este proyecto se basa en un conjunto de datos privado del grupo BIVL2ab, que contiene imágenes capturadas a pacientes con ACV isquémico en las primeras 24 horas tras los síntomas. Las imágenes son de las modalidades DWI, ADC y NCCT, y están pareadas con las marcaciones de las lesiones hechas por expertos. El conjunto de datos se divide en:
