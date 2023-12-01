@@ -1,5 +1,5 @@
 # Acute Ischemic Stroke Segmentation
-![figura 1](https://github.com/gysselis40/Acute_Ischemic_Stroke_Segmentation/blob/main/figura.png)
+![figura 1](https://github.com/gysselis40/Acute_Ischemic_Stroke_Segmentation/blob/main/Banner.png)
 ## Integrantes 
 - **Gysselis Vásquez Garcés**
 - **Óscar Andrés Ramírez Serna**
